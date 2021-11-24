@@ -1,5 +1,5 @@
-from zooAnimales.Animal import Animal
-from gestion.Zona import Zona
+from zooAnimales.animal import Animal
+from gestion.zona import Zona
 
 class Zoologico:
     zonas=[]
