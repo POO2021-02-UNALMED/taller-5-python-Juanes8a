@@ -33,4 +33,4 @@ class Animal:
 
     #def __str__(self):
     #    if   Animal.zona!=None:
-    #         return "Mi nombre es "  + self._nombre +  ", tengo una edad d, " + self._edad + ", habito en " + self._habitat +" y mi genero es " + self._genero + ", la zona en la que me ubico es " + Animal.zona[0].getNombre() + ", en el " + (zona[0].getZoo()).getNombre() 
+    #         return "Mi nombre es "  + self._nombre +  ", tengo una edad de, " + self._edad + ", habito en " + self._habitat +" y mi genero es " + self._genero + ", la zona en la que me ubico es " + Animal.zona[0].getNombre() + ", en el " + (zona[0].getZoo()).getNombre() 
